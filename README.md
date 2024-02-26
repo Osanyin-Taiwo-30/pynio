@@ -1,5 +1,8 @@
 # PyNIO
 
+> [!WARNING]
+> **PyNIO was placed in maintenance mode as of November of 2020.** You can find more details in the [full announcement here](https://geocat.ucar.edu/blog/2020/11/11/November-2020-update).
+
 PyNIO ("pie-nee-oh") is a Python module that allows read and/or write access to a variety of scientific data formats popular in climate and weather:
 
  * NetCDF3 / NetCDF4
